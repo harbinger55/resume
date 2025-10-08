@@ -247,7 +247,7 @@
 
     {
       "name": "Automation",
-      "level": "Advanced",
+      "level": "Expert",
       "keywords": [
         "Ansible",
         "ArgoCD",
@@ -295,7 +295,7 @@
     },
     {
       "name": "Languages and Scripting",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "AWK",
         "BASH",
