@@ -8,7 +8,7 @@
     "phone": "",
     "url": "https://davenash.dev",
     "website": "https://davenash.dev",
-    "summary": "A seasoned DevOps Engineer/SRE with over 20 years of experience automating and accelerating teams and organizations.   I am comfortable with individual contributor or leadership roles, as long as I’m faced with meaningful challenges, interesting problems, and learning something new.",
+    "summary": "A seasoned DevOps Engineer/SRE with over 20 years of experience automating and accelerating organizations. I am comfortable with individual contributor or leadership roles, as long as I’m faced with meaningful challenges, interesting problems, and learning something new.",
     "location": {
       "countryCode": "US",
       "city": "Seattle",
@@ -38,6 +38,19 @@
     ]
   },
   "work": [
+    {
+      "company": "Lytx Inc.",
+      "position": "Staff Engineer Site Reliability Engineer",
+      "startDate": "2022-12-19",
+      "endDate": "present",
+      "highlights": [
+        "Designed and implemented CloudFlare Web Application Firewall (WAF) to protect the company from malicious traffic and improve the reliability of the company's websites.",
+        "Implemented Infrastructure as Code (IaC) for configuration of New Relic and PagerDuty, this allowed the company to manage their observability and incident response more efficiently.",
+        "Key Tech: Agile, Scrum, python3, golang,terraform, AWS, Slack, grafana, SLOs, New Relic, Jira, PagerDuty, CloudFlare"
+      ],
+      "summary": "Staff Engineer on the SRE team. Provided technical leadership for Development and Operations teams supporting the company's applications and APIs to improve reliability, security and reduce toil",
+      "url": "https://www.lytx.com"
+    },
     {
       "company": "Redfin",
       "position": "Tech Lead (Staff Engineer) Site Reliability Engineer",
