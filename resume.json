@@ -247,7 +247,7 @@
 
     {
       "name": "Automation",
-      "level": "master",
+      "level": "Master",
       "keywords": [
         "Ansible",
         "ArgoCD",
@@ -279,7 +279,7 @@
 
     {
       "name": "Observability",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
         "DataDog",
         "Grafana",
@@ -323,7 +323,7 @@
     },
     {
       "name": "Operating Systems",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
         "Unix",
         "Centos",
