@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "$schema": "https://raw.GitHubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "W. David Nash III",
     "label": "Tech Lead (Staff Engineer) Site Reliability Engineer",
@@ -26,13 +26,13 @@
         "url": "https://twitter.com/dave_nash"
       },
       {
-        "network": "Github",
-        "url": "https://github.com/harbinger55",
+        "network": "GitHub",
+        "url": "https://GitHub.com/harbinger55",
         "username": "harbinger55"
       },
       {
-        "network": "Gitlab",
-        "url": "https://gitlab.com/harbinger55",
+        "network": "GitLab",
+        "url": "https://GitLab.com/harbinger55",
         "username": "harbinger55"
       }
     ]
@@ -74,7 +74,7 @@
         "Created Terraform archetypes to implement the 4 Golden Signals within our monitoring solution so that development teams could enable these without support.",
         "Worked with various teams across the organization to migrate from legacy platforms to our next-generation Kubernetes based platform.",
         "Managed Kubernetes clusters with Rancher for a new business line within the company. This allowed them to innovate and deploy quickly without being constrained by legacy platforms and procedures.",
-        "Key Tech: Agile, Scrum, python3, terraform, AWS, Slack, gitlab, gitlab-ci, DataDog, Rancher, Locust, Go, Kubernetes, Kubernetes Operators, packer"
+        "Key Tech: Agile, Scrum, python3, terraform, AWS, Slack, GitLab, GitLab-ci, DataDog, Rancher, Locust, Go, Kubernetes, Kubernetes Operators, packer"
       ],
       "summary": "Senior SRE supporting our development teams in adopting DevOps/SRE practices.  Such as the 4 golden signals, being on call, migration to kubernetes, Terraform and working collaboratively. Additionally, we developed tools and runbooks that could be utilized throughout the organization to enable teams to be more agile and improve efficiency.",
       "url": "https://www.zillow.com"
@@ -99,11 +99,11 @@
       "startDate": "2016-05-31",
       "endDate": "2018-06-30",
       "highlights": [
-        "Implemented host and application automation with cloudformation (AWS), Terraform (packet.net), packer, ansible and gitlab-ci.",
+        "Implemented host and application automation with cloudformation (AWS), Terraform (packet.net), packer, ansible and GitLab-ci.",
         "Migrated monitoring and metric  from manually configured nagios/graphite to automatically configured Datadog(https://www.datadoghq.com/).",
         "Developed a python tool for use by Customer Success to determine if customer firewalls permitted access from all of our PoPs.",
         "Performed Scrum Master duties within my team including leading ceremonies and scheduling.",
-        "Key Tech: Agile, Scrum, python, terraform, AWS, Slack, gitlab, gitlab-ci, DataDog, RDS, Aurora, Kamailio, Homer, Graphite"
+        "Key Tech: Agile, Scrum, python, terraform, AWS, Slack, GitLab, GitLab-ci, DataDog, RDS, Aurora, Kamailio, Homer, Graphite"
       ],
       "summary": "Work within a cross-discipline Agile team as the embedded DevOps Engineer to implement and support an  API driven real-time voice communication platform.",
       "url": "https://www.linkedin.com/company/flowroute/"
@@ -208,6 +208,7 @@
       "organization": "West Seattle Linux Users Group",
       "position": "Co-leader",
       "startDate": "2018-05-31",
+      "endDate": "2025-01-31",
       "summary": "A Linux User Group for West Seattle and the surrounding area.",
       "highlights": [],
       "url": "https://wsealug.net/"
@@ -246,30 +247,30 @@
       "level": "Advanced",
       "keywords": [
         "Ansible",
-        "Puppet",
-        "Terraform",
-        "CloudFormation",
-        "gitlab",
-        "gitlab-ci",
-        "github",
-        "github actions",
+        "ArgoCD",
+        "Chef",
+        "GitHub Actions",
+        "GitHub",
+        "GitLab-ci",
+        "GitLab",
+        "Helm",
         "Jenkins",
-        "packer",
-        "puppet",
-        "chef",
         "Kustomize",
-        "Helm"
+        "Packer",
+        "Puppet",
+        "Puppet",
+        "Terraform"
       ]
     },
     {
       "name": "Platforms",
       "level": "Advanced",
       "keywords": [
-        "Kubernetes",
         "Amazon Web Services (AWS)",
-        "Oracle Cloud Infrastructure (OCI)",
+        "CloudFlare WAF",
         "Digital Ocean",
-        "Google Cloud Platform (GCP)"
+        "Google Cloud Platform (GCP)",
+        "Kubernetes"
       ]
     },
 
@@ -278,29 +279,27 @@
       "level": "Advanced",
       "keywords": [
         "DataDog",
-        "Nagios",
-        "Syslog",
-        "Syslog-NG",
-        "LogWatch",
-        "logcheck",
-        "pnp4nagios",
-        "Graphite",
         "Grafana",
+        "Graphite",
+        "LogWatch",
+        "Nagios",
+        "New Relic",
+        "PagerDuty",
         "Prometheus",
-        "ELK",
-        "New Relic"
+        "Syslog-NG",
+        "Syslog"
       ]
     },
     {
       "name": "Languages and Scripting",
       "level": "Intermediate",
       "keywords": [
-        "Python3",
-        "GoLang",
-        "Ruby",
-        "Perl",
-        "BASH",
         "AWK",
+        "BASH",
+        "GoLang",
+        "Perl",
+        "Python3",
+        "Ruby",
         "SED"
       ]
     },
@@ -342,6 +341,6 @@
   "projects": [],
   "meta": {
     "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    "canonical": "https://GitHub.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
 }
