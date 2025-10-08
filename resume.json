@@ -247,7 +247,7 @@
 
     {
       "name": "Automation",
-      "level": "Expert",
+      "level": "master",
       "keywords": [
         "Ansible",
         "ArgoCD",
