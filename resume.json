@@ -1,0 +1,335 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "W. David Nash III",
+    "label": "Tech Lead (Staff Engineer) Site Reliability Engineer",
+    "image": "",
+    "email": "dave@davenash.dev",
+    "phone": "",
+    "url": "https://davenash.dev",
+    "website": "https://davenash.dev",
+    "summary": "A seasoned DevOps Engineer/SRE with over 20 years of experience automating and accelerating teams and organizations.   I am comfortable with individual contributor or leadership roles, as long as I’m faced with meaningful challenges, interesting problems, and learning something new.",
+    "location": {
+      "countryCode": "US",
+      "city": "Seattle",
+      "region": "WA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "davenash",
+        "url": "https://www.linkedin.com/in/davenash/"
+      },
+      {
+        "network": "Twitter",
+        "username": "dave_nash",
+        "url": "https://twitter.com/dave_nash"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/harbinger55",
+        "username": "harbinger55"
+      },
+      {
+        "network": "Gitlab",
+        "url": "https://gitlab.com/harbinger55",
+        "username": "harbinger55"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Redfin",
+      "position": "Tech Lead (Staff Engineer) Site Reliability Engineer",
+      "startDate": "2022-03-31",
+      "endDate": "2022-11-16",
+      "highlights": [
+        "Designed, presented and ran SLO workshops to drive product teams in selecting high value SLO's for the company SLO Dashboard and Service Health Reviews",
+        "Engaged with several teams to identify areas where reliability could be increased and where operational toil could be reduced",
+        "Set SRE organization quarterly goals including engagements and software development",
+        "Wrote documentation and training for reliability initiatives such as PRR, Infrastructure Operationalization and Observability.",
+        "Key Tech: Agile, Scrum, python3, terraform, AWS, Slack, BitBucket, grafana, circonus, SLOs, New Relic, Jira, OpsGenie"
+      ],
+      "summary": "Tech Lead (Staff Engineer) for the SRE team. Provided technical leadership for Development and Operations teams supporting the legacy monolith and kubernetes microservices applications to improve reliability and reduce toil",
+      "url": "https://www.redfin.com"
+    },
+    {
+      "company": "Zillow Group",
+      "position": "Senior SRE",
+      "startDate": "2019-09-30",
+      "endDate": "2022-03-31",
+      "highlights": [
+        "Created Terraform archetypes to implement the 4 Golden Signals within our monitoring solution so that development teams could enable these without support.",
+        "Worked with various teams across the organization to migrate from legacy platforms to our next-generation Kubernetes based platform.",
+        "Managed Kubernetes clusters with Rancher for a new business line within the company. This allowed them to innovate and deploy quickly without being constrained by legacy platforms and procedures.",
+        "Key Tech: Agile, Scrum, python3, terraform, AWS, Slack, gitlab, gitlab-ci, DataDog, Rancher, Locust, Go, Kubernetes, Kubernetes Operators, packer"
+      ],
+      "summary": "Senior SRE supporting our development teams in adopting DevOps/SRE practices.  Such as the 4 golden signals, being on call, migration to kubernetes, Terraform and working collaboratively. Additionally, we developed tools and runbooks that could be utilized throughout the organization to enable teams to be more agile and improve efficiency.",
+      "url": "https://www.zillow.com"
+    },
+    {
+      "company": "Oracle",
+      "position": "SRE",
+      "startDate": "2018-06-30",
+      "endDate": "2019-09-30",
+      "highlights": [
+        "Designed and built an internal API utilizing GoLang, MySql  and OCI Functions to improve our ability to respond to customer demands and stay with contractual SLA’s.",
+        "Worked with various teams across the organization to implement configuration automation and healthy On Call habits.",
+        "Helped with the development and implementation of an internal chatbot and plugins. The bot could notify teams of SLA breaches, food trucks, deployments and many other events.",
+        "Key Tech: Agile, Scrum, OCI, OpenFaas (OCI version of lambda), Jira, PagerDuty, EKS, Go"
+      ],
+      "summary": "Worked within a small SRE team within Operations to work with various teams throughout Oracle Cloud to improve their operational efficiency and reliability. In addition we spotted common issue across teams and developed or sponsored solutions that could be applied globally.",
+      "url": "https://www.oracle.com/cloud/"
+    },
+    {
+      "company": "Flowroute Inc.",
+      "position": "DevOps Engineer",
+      "startDate": "2016-05-31",
+      "endDate": "2018-06-30",
+      "highlights": [
+        "Implemented host and application automation with cloudformation (AWS), Terraform (packet.net), packer, ansible and gitlab-ci.",
+        "Migrated monitoring and metric  from manually configured nagios/graphite to automatically configured Datadog(https://www.datadoghq.com/).",
+        "Developed a python tool for use by Customer Success to determine if customer firewalls permitted access from all of our PoPs.",
+        "Performed Scrum Master duties within my team including leading ceremonies and scheduling.",
+        "Key Tech: Agile, Scrum, python, terraform, AWS, Slack, gitlab, gitlab-ci, DataDog, RDS, Aurora, Kamailio, Homer, Graphite"
+      ],
+      "summary": "Work within a cross-discipline Agile team as the embedded DevOps Engineer to implement and support an  API driven real-time voice communication platform.",
+      "url": "https://www.linkedin.com/company/flowroute/"
+    },
+    {
+      "company": "Apollo Education Group",
+      "position": "Sr Systems Engineer",
+      "startDate": "2013-09-30",
+      "endDate": "2016-04-30",
+      "highlights": [
+        "Designed and implemented a Continuous Deployment infrastructure with Jenkins and dependent scripts to support autonomous builds and deployment.",
+        "Designed and maintained distributed logging and metric systems utilizing  Graphite/Grafana and ELK(Elasticsearch, Logstash and Kibana).",
+        "Developed proof of concept systems with docker, vault and other technologies for our next generation Continuous Deployment infrastructure.",
+        "Designed and maintained our “Chatops” infrastructure with hipchat and hubot allowing the organization to self-service through the hipchat interface"
+      ],
+      "summary": "Work with an office comprising Operations, QA & Development to innovate and rapidly realize new products and revenue streams while supporting the legacy “front end” of the business",
+      "url": "https://www.linkedin.com/company/apollo-group/"
+    },
+    {
+      "company": "Medio Systems",
+      "position": "Sr Systems Engineer",
+      "startDate": "2008-08-31",
+      "endDate": "2013-08-31",
+      "highlights": [
+        "Designed and implemented Puppet integrated with foreman and Nagios to provide a simple automated build, deployment and monitoring system.",
+        "Designed and built a custom Application deployment system based around Ruby on Rails to replace a manual process.",
+        "Took over management of cassandra NoSQL solution and migrated it to the DataStax supported Cassandra platform providing increased performance and quicker issue resolution."
+      ],
+      "summary": "Working within a team, helped to design implement and manage a redundant highly scalable architecture to support a growing software company in the Mobile arena.",
+      "url": "https://www.linkedin.com/company/medio/"
+    },
+    {
+      "company": "Jobster Inc",
+      "position": "Senior System Administrator",
+      "startDate": "2005-10-31",
+      "endDate": "2008-07-31",
+      "highlights": [
+        "Converted a manual installation and configuration to a completely automated process to install and configuration using RedHat kickstart and cfengine.",
+        "Designed and configured a redundant Enterprise mail system utilizing Postfix with reporting in awstats.",
+        "Developed and supported a perl based application to support deployment of our 14+ products in a consistent and repeatable manner.",
+        "Worked with 3rd party vendors to diagnose and support Oracle and MySQL database instances in a production environment"
+      ],
+      "summary": "Hired as the first Unix System Engineer, I helped guide and architect Jobster’s evolution from a small startup into an enterprise-class environment supporting 24x7 availability with rapidly developing products and applications."
+    },
+    {
+      "company": "The Cobalt Group Inc.",
+      "position": "System Engineer III",
+      "startDate": "2000-02-28",
+      "endDate": "2005-10-31",
+      "highlights": [
+        "Architected and implemented an autonomous system to perform repeatable building and configuration of Sun Solaris and Red Hat Enterprise systems which resulted in a dramatic reduction in the time required to provision new servers and the mean time to recovery (MTTR) of existing systems.",
+        "Designed, programmed and implemented a web based system for notifying Internal Customers of Outages and Maintenance in a central location conforming to corporate guidelines.",
+        "Evaluated, built and configured system/application monitoring solution utilizing Nagios, which eliminated the need for BMC Patrol and costly licensing."
+      ],
+      "summary": "Responsible for the management and administration of existing production and QA infrastructure (over 300 nodes). Additional responsibilities for design and implementation of new technology solutions and advanced troubleshooting of high end eCRM applications.   Served as a mentor to SE I and SE II team members, and performed project lead/management duties.",
+      "url": "https://www.cdkglobal.com/"
+    },
+    {
+      "company": "InfiNet",
+      "position": "System Admin",
+      "startDate": "1995-09-30",
+      "endDate": "1999-09-30",
+      "highlights": [
+        "Migrated Websites from Open Market Web Server to a mixture of Netscape and Zeus.",
+        "First Tier responder for hostmaster, postmaster and abuse Issues related to dial-up access."
+      ],
+      "summary": "Provided 24/7 production support of  Sun Solaris and True64 servers hosting over 50 Newspaper websites, related products and dial-up Internet Access.",
+      "url": "https://www.linkedin.com/company/infinet-communications/"
+    }
+  ],
+  "volunteer": [
+
+    {
+      "organization": "Seattle CoffeeOps",
+      "position": "Co-Leader",
+      "startDate": "2018-12-31",
+      "summary": "A local meetup which meets every 2 weeks to discuss technical, cultural and process issues in technology related jobs.",
+      "highlights": [
+        "Community",
+        "DevOps"
+      ],
+      "url": "https://www.meetup.com/seattle-coffeeops/"
+    },
+    {
+      "organization": "SeaGL (the Seattle GNU/Linux Conference)",
+      "position": "Volunteer",
+      "startDate": "2019-08-31",
+      "summary": "Volunteer supporting the conference with technical infrastructure as well as working with speakers as an in room volunteer.",
+      "highlights": [],
+      "url": "https://seagl.org"
+    },
+
+    {
+      "organization": "DevOpsDays Seattle",
+      "position": "Organizer",
+      "startDate": "2019-04-30",
+      "summary": "A local single track conference for DevOps practitioners.",
+      "highlights": [],
+      "url": "https://devopsdays.org/events/2022-seattle/welcome/"
+    },
+    {
+      "organization": "West Seattle Linux Users Group",
+      "position": "Co-leader",
+      "startDate": "2018-05-31",
+      "summary": "A Linux User Group for West Seattle and the surrounding area.",
+      "highlights": [],
+      "url": "https://wsealug.net/"
+    },
+    {
+      "organization": "FIRSTWA",
+      "position": "Volunteer",
+      "startDate": "2015-11-30",
+      "endDate": "2016-12-31",
+      "summary": "Judge for regional First Lego League competitions in the Greater Seattle area.",
+      "highlights": [
+        "Project Judge",
+        "Robot Judge"
+      ],
+      "url": "https://firstwa.org/"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Norfolk Technical Vocational Center",
+      "area": "Bussiness Artifical Intelligence",
+      "studyType": "Diploma",
+      "startDate": "1992-12-31",
+      "endDate": "1993-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+
+    {
+      "name": "Automation",
+      "level": "Advanced",
+      "keywords": [
+        "Ansible",
+        "Puppet",
+        "Terraform",
+        "CloudFormation",
+        "gitlab",
+        "gitlab-ci",
+        "github",
+        "github actions",
+        "Jenkins",
+        "packer",
+        "puppet",
+        "chef",
+        "Kustomize",
+        "Helm"
+      ]
+    },
+    {
+      "name": "Platforms",
+      "level": "Advanced",
+      "keywords": [
+        "Kubernetes",
+        "Amazon Web Services (AWS)",
+        "Oracle Cloud Infrastructure (OCI)",
+        "Digital Ocean",
+        "Google Cloud Platform (GCP)"
+      ]
+    },
+
+    {
+      "name": "Observability",
+      "level": "Advanced",
+      "keywords": [
+        "DataDog",
+        "Nagios",
+        "Syslog",
+        "Syslog-NG",
+        "LogWatch",
+        "logcheck",
+        "pnp4nagios",
+        "Graphite",
+        "Grafana",
+        "Prometheus",
+        "ELK",
+        "New Relic"
+      ]
+    },
+    {
+      "name": "Languages and Scripting",
+      "level": "Intermediate",
+      "keywords": [
+        "Python3",
+        "GoLang",
+        "Ruby",
+        "Perl",
+        "BASH",
+        "AWK",
+        "SED"
+      ]
+    },
+    {
+      "name": "System and Network Services",
+      "level": "Advanced",
+      "keywords": [
+        "NFS",
+        "DNS (BIND)",
+        "SendMail",
+        "PostFix",
+        "HTTP (Apache, NGINX)",
+        "SSL",
+        "SSH",
+        "FTP",
+        "Java Application Servers (Weblogic, JBoss, Tomcat)"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Advanced",
+      "keywords": [
+        "Unix",
+        "Centos",
+        "Ubuntu",
+        "Debian",
+        "Oracle Linux"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
