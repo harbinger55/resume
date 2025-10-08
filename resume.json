@@ -42,7 +42,6 @@
       "company": "Lytx Inc.",
       "position": "Staff Engineer Site Reliability Engineer",
       "startDate": "2022-12-19",
-      "endDate": "present",
       "highlights": [
         "Designed and implemented CloudFlare Web Application Firewall (WAF) to protect the company from malicious traffic and improve the reliability of the company's websites.",
         "Implemented Infrastructure as Code (IaC) for configuration of New Relic and PagerDuty, this allowed the company to manage their observability and incident response more efficiently.",
